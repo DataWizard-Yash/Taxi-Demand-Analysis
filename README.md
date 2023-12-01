@@ -36,3 +36,61 @@ The dataset consists of JSON files named `year_2023_month_1` to `year_2023_month
    - Visualizations illustrate data distribution, patterns, and model performance.
 
 ## Code Structure
+
+### Data
+- **Year 2023 Month 1:**
+  - `year_2023_month_1.json`
+- **Year 2023 Month 2:**
+  - `year_2023_month_2.json`
+- ...
+
+### Code
+- **Data Preprocessing:**
+  - `data_preprocessing.ipynb`
+- **Model Training:**
+  - `model_training.ipynb`
+- **Evaluation and Analysis:**
+  - `evaluation_and_analysis.ipynb`
+
+### Visualizations
+- `demand_distribution.png`
+- `model_comparison_chart.png`
+
+### [README.md](README.md)
+
+### [requirements.txt](requirements.txt)
+
+---
+
+
+
+
+
+## Results
+
+- XGBoost achieved an RMSE of X.
+- ARIMA achieved an RMSE of Y.
+- DNN achieved an RMSE of Z.
+
+## Challenges Faced
+
+- Describe any challenges encountered during the project.
+
+## Future Improvements
+
+- Outline potential improvements or next steps for enhancing the model.
+
+## How to Run the Code
+
+1. Clone the repository.
+2. Install dependencies: `pip install -r requirements.txt`.
+3. Run the Jupyter notebooks in the `code/` directory.
+
+## Acknowledgments
+
+- Mention any resources, libraries, or tools used in the project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
